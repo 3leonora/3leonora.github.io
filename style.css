@@ -6,6 +6,7 @@
 }
 
 .fa {
+  text-decoration: none !important;
   padding: 20px;
   font-size: 30px;
   width: 30px;
