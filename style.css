@@ -46,6 +46,7 @@
 /* Add an active class to highlight the current page */
 .active {
   color: rgb(91, 139, 111);
+  font-weight: bold;
 }
 
 /* Hide the link that should open and close the topnav on small screens */
