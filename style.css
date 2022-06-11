@@ -22,3 +22,24 @@
 .fa:hover {
   opacity: 0.7;
 }
+
+.vertical-menu {
+  width: 100px; /* Set a width if you like */
+}
+
+.vertical-menu a {
+  background-color: #fff; /* Grey background color */
+  color: black; /* Black text color */
+  display: block; /* Make the links appear below each other */
+  padding: 12px; /* Add some padding */
+  text-decoration: none; /* Remove underline from links */
+}
+
+.vertical-menu a:hover {
+  background-color: #ccc; /* Dark grey background on mouse-over */
+}
+
+.vertical-menu a.active {
+  background-color: #b8e7d6; /* Add a green color to the "active/current" link */
+  color: white;
+}
