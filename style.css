@@ -45,7 +45,7 @@
 
 /* Add an active class to highlight the current page */
 .active {
-  color: rgb(55, 116, 80);
+  color: rgb(91, 139, 111);
 }
 
 /* Hide the link that should open and close the topnav on small screens */
@@ -55,7 +55,8 @@
 
 /* Add a dark background on topnav links and the dropdown button on hover */
 .topnav a:hover {
-  color: rgb(71, 107, 85);
+  color: rgb(75, 109, 88);
+  font-weight: bold;
 }
 
 /* This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
