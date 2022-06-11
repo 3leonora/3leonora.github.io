@@ -5,6 +5,7 @@
   text-align: center;
 }
 
+/* SOCIAL MEDIA ICONS */
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -28,6 +29,7 @@
   background-color: #333;
 }
 
+/* NAVBAR */
 .navbar a {
   float: left;
   font-size: 16px;
