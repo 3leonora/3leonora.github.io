@@ -24,12 +24,14 @@
   opacity: 0.7;
 }
 
+
+/* NAVBAR */
+
 .navbar {
   overflow: hidden;
   background-color: #fff;
 }
 
-/* NAVBAR */
 .navbar a {
   float: left;
   font-size: 14px;
